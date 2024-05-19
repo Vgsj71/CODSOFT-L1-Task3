@@ -1,2 +1,2 @@
-# CODSOF
+# CODESOFT
 Calculator
